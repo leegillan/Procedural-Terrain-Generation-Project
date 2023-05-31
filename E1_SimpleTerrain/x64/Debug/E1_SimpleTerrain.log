@@ -1,0 +1,67 @@
+﻿C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainShader_ps.hlsl(75,5): warning X4000: use of potentially uninitialized variable (textureColour)
+  
+  compilation object save succeeded; see C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainShader_ps.cso
+  compilation object save succeeded; see C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainShader_vs.cso
+  compilation object save succeeded; see C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\WaterShader_ps.cso
+  compilation object save succeeded; see C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\WaterShader_vs.cso
+  App1.cpp
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\App1.cpp(108,20): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\App1.cpp(108,20): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\App1.cpp(238,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\App1.cpp(291,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\App1.cpp(291,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\App1.cpp(292,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\App1.cpp(292,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+  PerlinNoise.cpp
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\PerlinNoise.cpp(86,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\PerlinNoise.cpp(87,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\PerlinNoise.cpp(88,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\PerlinNoise.cpp(93,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\PerlinNoise.cpp(95,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\PerlinNoise.cpp(96,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\PerlinNoise.cpp(100,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\PerlinNoise.cpp(102,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\PerlinNoise.cpp(103,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\PerlinNoise.cpp(105,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\PerlinNoise.cpp(109,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\PerlinNoise.cpp(111,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\PerlinNoise.cpp(112,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\PerlinNoise.cpp(116,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\PerlinNoise.cpp(118,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\PerlinNoise.cpp(119,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\PerlinNoise.cpp(121,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\PerlinNoise.cpp(145,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  TerrainMesh.cpp
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(31,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(32,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(33,48): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(34,44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(42,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(42,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(69,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(69,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(69,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(95,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(96,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(98,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(132,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(133,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(144,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(151,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(237,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(405,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(262,38): warning C4101: 'indexBufferDesc': unreferenced local variable
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(263,25): warning C4101: 'vertexData': unreferenced local variable
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(263,37): warning C4101: 'indexData': unreferenced local variable
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainMesh.cpp(262,20): warning C4101: 'vertexBufferDesc': unreferenced local variable
+  TerrainShader.cpp
+  WaterMesh.cpp
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\WaterMesh.cpp(192,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\WaterMesh.cpp(54,38): warning C4101: 'indexBufferDesc': unreferenced local variable
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\WaterMesh.cpp(55,25): warning C4101: 'vertexData': unreferenced local variable
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\WaterMesh.cpp(55,37): warning C4101: 'indexData': unreferenced local variable
+C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\WaterMesh.cpp(54,20): warning C4101: 'vertexBufferDesc': unreferenced local variable
+  WaterShader.cpp
+  Generating Code...
+  E1_SimpleTerrain.vcxproj -> C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\x64\Debug\E1_SimpleTerrain.exe

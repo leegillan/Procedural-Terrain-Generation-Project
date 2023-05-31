@@ -1,0 +1,29 @@
+﻿  TerrainMesh.cpp
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(31,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(32,47): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(33,52): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(34,48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(42,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(42,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(69,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(69,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(69,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(95,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(96,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(98,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(132,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(133,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(144,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(151,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(237,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(405,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(262,38): warning C4101: 'indexBufferDesc': unreferenced local variable
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(263,25): warning C4101: 'vertexData': unreferenced local variable
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(263,37): warning C4101: 'indexData': unreferenced local variable
+C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\E1_SimpleTerrain\TerrainMesh.cpp(262,20): warning C4101: 'vertexBufferDesc': unreferenced local variable
+  Generating code
+  0 of 1376 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  E1_SimpleTerrain.vcxproj -> C:\Users\Lee Gillan\Desktop\CMP305\305\E1_SimpleTerrain\E1_SimpleTerrain\x64\Release\E1_SimpleTerrain.exe

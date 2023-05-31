@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\x64\Debug\E1_SimpleTerrain.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainShader_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\TerrainShader_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\WaterShader_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Lee Gillan\Desktop\Things to lookover\GillanLee_1701370_CMP305\src\E1_SimpleTerrain\WaterShader_vs.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
